@@ -1,5 +1,5 @@
 # Project Description
-This project involves the implementation of a collaborative-filter based recommender system on a large-scale real-world dataset. The objective is to leverage machine learning and big data techniques learned during the course to solve a complex problem in music recommendation.
+This project involves the implementation of a collaborative-filter based recommender system on a large-scale real-world dataset. The objective is to leverage big data techniques learned during the course to solve a complex problem in music recommendation.
 
 # Dataset
 The project utilizes the ListenBrainz dataset, consisting of implicit feedback from music listening behavior. This includes several thousand users and tens of millions of songs, where each observation represents a single interaction between a user and a song.
